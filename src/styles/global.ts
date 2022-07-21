@@ -3,7 +3,6 @@ import { createGlobalStyle } from 'styled-components';
 export const GlobalStyle = createGlobalStyle`
   :root {
     // Aqui vai as definições de cores
-    // Aqui vai as definições de cores
   }
 
   * {
