@@ -7,7 +7,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "test": "jest -i --passWithNoTests",
-    "test:coverage": "jest -i --coverage",
+    "test:coverage": "jest -i --coverage --passWithNoTests",
     "test:watch": "jest -i --watchAll",
     "prettier": "prettier --write .",
     "lint": "eslint .",
